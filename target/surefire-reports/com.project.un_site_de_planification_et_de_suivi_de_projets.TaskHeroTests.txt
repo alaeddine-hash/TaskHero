@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.un_site_de_planification_et_de_suivi_de_projets.TaskHeroTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.866 s - in com.project.un_site_de_planification_et_de_suivi_de_projets.TaskHeroTests
